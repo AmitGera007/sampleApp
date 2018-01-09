@@ -1,0 +1,6 @@
+G:\Practice C#\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+G:\Practice C#\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+G:\Practice C#\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+G:\Practice C#\SampleApp\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+G:\Practice C#\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+G:\Practice C#\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
